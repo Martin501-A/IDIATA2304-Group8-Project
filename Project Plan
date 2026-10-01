@@ -1,3 +1,10 @@
 Detaljer prosjekt.
 Planning (sprint/Agile)
 Distribution of tasks.
+
+
+in this project we shall learn network programming in practice. We are working for a company called "Smart Home Automation" or "SHA" for short. SHA develops smart home solutions for buildings and houses.
+we shall implement an application and components for a complete smart home solution. some of our tasks are communication with sockets, design an application layer protocol, implementing necessary communication between
+nodes, and a control panel so the owner can visualize sensor data and control the sensors.
+we shall implement sensors/actuators that shall generate simulated sensor data and implement a simple interface for controlling them. the interface can either be terminal based or a GUI.
+
